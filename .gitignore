@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-freeze.log
+pip-selfcheck.json
+
+# Environment variables
+.env
+*.env
+
+# Generated data
+faiss_index/
+data_raw/
+*.faiss
+*.pkl
+
+# Executables & Drivers
+*.exe
+*.dmg
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store

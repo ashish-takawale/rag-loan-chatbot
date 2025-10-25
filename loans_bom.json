@@ -1,0 +1,546 @@
+{
+  "bank_name": "Bank of Maharashtra",
+  "data_collection_date": "2025-10-25",
+  "loan_categories": {
+    "home_loans": {
+      "category_name": "Home Loans",
+      "schemes": [
+        {
+          "scheme_name": "Maha Super Housing Loan Scheme - Construction/Acquiring",
+          "url": "https://bankofmaharashtra.in/maha-super-housing-loan-scheme-for-construction-acquiring",
+          "purpose": [
+            "For purchasing of new Residential unit (House, flat, Bungalow etc.) under construction/ready directly from the builders/developers/society/other agencies/Development authority",
+            "For purchasing of old Residential unit (House, flat, Bungalow etc.)",
+            "Construction of a residential unit in owned Plot/Land",
+            "For extension (additional construction) in the existing house/flat",
+            "Takeover of existing Housing Loan accounts of the applicants under standard category availed from other Banks/Housing Financial Institutions"
+          ],
+          "eligibility": {
+            "citizen_type": [
+              "Resident Indian Citizen",
+              "Non-Resident Indians (NRIs)",
+              "Persons of Indian Origin (PIOs)",
+              "Overseas Citizens of India"
+            ]
+          },
+          "loan_to_value_ratio": {
+            "up_to_30_lakh": "90%",
+            "30_to_75_lakh": "80%",
+            "above_75_lakh": "75%"
+          },
+          "moratorium_period": "Maximum 48 months. However interest may be capitalized for a maximum period of 18 months thereafter Interest to be serviced as and when applied",
+          "repayment_period": "Maximum 30 years or on borrower reaching the age of 75 years whichever is earlier",
+          "deduction": {
+            "salaried": "Up to 80% based on latest monthly income",
+            "non_salaried": "Up to 80% based on average annual income"
+          },
+          "security": "Equitable/Registered Mortgage of Property",
+          "processing_fee": "0.25% of the loan amount (Subject to max. of Rs. 25,000/-). Full waiver for Govt./State/Central Government/Public sector Employees in case of Takeover Loans",
+          "special_features": [
+            "Inclusion of cost of Solar Photo Lightening System/Rooftop Solar plant"
+          ]
+        },
+        {
+          "scheme_name": "Maha Super Flexi Housing Loan Scheme",
+          "url": "https://bankofmaharashtra.in/maha-super-flexi-housing-loan-scheme",
+          "description": "Term Loan linked with Saving Account. When a borrower deposits surplus money to the account, it will be considered credit towards the loan, thus reducing the interest on the outstanding loan amount",
+          "key_features": [
+            "Home Loan sanctioned will be linked with flexi home Saving account",
+            "Borrower will have the option to deposit all his savings in the linked flexi home Saving account to avail maximum benefit of interest",
+            "Credit Balance available in the linked flexi home Saving account at the end of the day will be counted for credit in linked Home Loan account",
+            "Borrower is eligible for Cheque book facility, internet banking facility, and Mobile banking facility etc."
+          ],
+          "purpose": [
+            "For Purchase of ready built residential flat directly from the Builders/Developers/Society/Other Agencies/Development Authority",
+            "For Purchase of new or existing house/flat not older than 30 years (Residual life of the building should be 5 Years more than the loan tenure at the time of sanction)",
+            "Takeover of existing Housing Loan accounts"
+          ],
+          "eligibility": "Individual salaried employees/self-employed professionals/Businessman/Agriculturist",
+          "loan_amount": {
+            "minimum": "Rs 50.00 Lakh",
+            "maximum": "No Maximum Limit"
+          },
+          "loan_to_value_ratio": {
+            "up_to_75_lakh": "80%",
+            "above_75_lakh": "75%"
+          },
+          "repayment_period": "Maximum 30 years or on borrower reaching the age of 75 years whichever is earlier",
+          "interest_rate": "Additional 0.25% above the existing ROI as per Maha Super Housing Loan scheme",
+          "processing_fee": "0.25% of the loan amount (Subject to max. of Rs. 25,000/-)",
+          "flexi_credit_arrangement": [
+            "Rate of interest on flexi home Saving account will be Zero",
+            "After full disbursement, borrower permitted to deposit surplus funds and withdraw amount",
+            "Interest charged on netted balance (Loan balance minus savings account balance)"
+          ]
+        },
+        {
+          "scheme_name": "Pradhan Mantri Awas Yojana - Urban 2.0",
+          "url": "https://bankofmaharashtra.in/pradhan-mantri-awas-yojana-2",
+          "objective": "Provide affordable housing to urban under Economically weaker section (EWS), Low Income group (LIG), and Mid Income Group (MIG) categories",
+          "annual_household_income": {
+            "EWS": "Up to ₹3 lakh",
+            "LIG": "Up to ₹6 lakh",
+            "MIG": "Up to ₹9 lakh"
+          },
+          "loan_property_limits": {
+            "maximum_loan": "Rs 25.00 Lakh",
+            "maximum_housing_value": "Rs 35.00 Lakh",
+            "maximum_carpet_area": "120 Sqm"
+          },
+          "house_ownership": "Applicants must not own a pucca house anywhere in India",
+          "key_conditions": {
+            "adhaar_requirement": "Mandatory for all beneficiaries",
+            "registration": "Beneficiaries must register their demand through a Unified web-portal"
+          },
+          "subsidy_details": {
+            "maximum_interest_subsidy": "₹1.80 lakh",
+            "maximum_npv": "₹1.50 lakh at Discount Rate of 8.5%",
+            "interest_subsidy_rate": "4.0% on first ₹8 lakh for a tenure up to 12 years",
+            "disbursement": "Subsidy to the beneficiaries will be released in 5 equal yearly instalments"
+          },
+          "eligibility_criteria_by_category": {
+            "EWS": {
+              "annual_income": "Up to ₹3 lakh",
+              "interest_subsidy": "4% on first ₹8 lakh",
+              "max_loan": "₹25 lakh",
+              "max_house_value": "₹35 lakh",
+              "max_carpet_area": "120 sqm",
+              "max_subsidy_benefit": "₹1.80 lakh"
+            },
+            "LIG": {
+              "annual_income": "₹3 lakh - ₹6 lakh",
+              "interest_subsidy": "4% on first ₹8 lakh",
+              "max_loan": "₹25 lakh",
+              "max_house_value": "₹35 lakh",
+              "max_carpet_area": "120 sqm",
+              "max_subsidy_benefit": "₹1.80 lakh"
+            },
+            "MIG": {
+              "annual_income": "₹6 lakh - ₹9 lakh",
+              "interest_subsidy": "4% on first ₹8 lakh",
+              "max_loan": "₹25 lakh",
+              "max_house_value": "₹35 lakh",
+              "max_carpet_area": "120 sqm",
+              "max_subsidy_benefit": "₹1.80 lakh"
+            }
+          }
+        }
+      ]
+    },
+    "vehicle_loans": {
+      "category_name": "Vehicle Loans",
+      "schemes": [
+        {
+          "scheme_name": "Maha Super Car Loan Scheme",
+          "url": "https://bankofmaharashtra.in/personal-banking/loans/car-loan",
+          "interest_rate": "7.70% P.A*",
+          "features": [
+            "Low EMI, higher loan amount, approved car dealers",
+            "No processing or prepayment fees",
+            "Max funding 90%",
+            "ROI concession for salary account holders",
+            "Quick sanction",
+            "Simplified disbursement"
+          ],
+          "documents_required": {
+            "identification_proof": [
+              "Election ID Card",
+              "PAN Card",
+              "Aadhar Card",
+              "Driving License",
+              "Photo Identity card issued by current Employer",
+              "Passport"
+            ],
+            "residence_proof": [
+              "Electricity Bill",
+              "Election ID Card",
+              "Telephone Bill (Landline)",
+              "Aadhar Card",
+              "Driving License",
+              "Photo Identity card issued by current Employer",
+              "Passport"
+            ],
+            "for_salaried": [
+              "Original/Certified copy of latest salary slips for past 3 months",
+              "IT returns of last 2 years or Form 16",
+              "Undertaking from employer for remittance of monthly installment",
+              "Bank Account statement for last 6 months (if other bank)"
+            ],
+            "for_non_salaried": [
+              "Latest 3 years IT returns including computation of income, P&L Account, Balance sheet, Audit Report",
+              "Shop Establishment Act",
+              "Tax Registration Copy",
+              "Company Registration License",
+              "Bank statement for past one year"
+            ]
+          }
+        },
+        {
+          "scheme_name": "Mahabank Vehicle Loan Scheme for Two Wheelers",
+          "url": "https://bankofmaharashtra.in/mahabank-vehicle-loan-scheme-for-two-wheelers-loans",
+          "purpose_of_loan": [
+            "Purchase of New two wheelers (Engine up to 500 CC)",
+            "Purchase of New High Value two wheeler (Engine above 500)",
+            "Purchase New Battery operated two-wheelers (E-Vehicle) of reputed make under Green Finance"
+          ],
+          "eligibility": [
+            "Confirmed Salaried Employees of Central Govt./State Govt./PSUs/Govt. aided Educational Institute/Private/Public Limited Company with continuous service for minimum 1 year",
+            "Pensioners of Central/State Government/PSU having minimum pension of Rs.25000/- per month",
+            "Self Employed Professionals (CAs, Doctors, Architects, Company Secretaries, Advocates, CMAs etc.)",
+            "Businessman/Independent Entrepreneurs with regular source of income",
+            "Farmers having land holding engaged in agricultural activities"
+          ],
+          "min_annual_income": {
+            "salaried": "Rs. 2.50 lakh (Minimum past 2 years ITR/Form 16 required)",
+            "other_individuals": "Rs. 3.00 lakh (Minimum past 2 years ITR with supporting documents)"
+          },
+          "loan_amount": {
+            "two_wheeler_including_e_vehicle": {
+              "minimum": "Rs 50,000/-",
+              "maximum": "Rs 5.00 Lakh"
+            },
+            "high_end_two_wheeler_superbike": {
+              "minimum": "Rs 5.00 Lakh",
+              "maximum": "Rs 25.00 Lakh"
+            }
+          },
+          "margin": "Minimum 15% of On Road price of Vehicle (includes Ex Show Room Price, Road Tax, Registration and Insurance cost, excluding accessories)",
+          "repayment_period": "Maximum 60 months",
+          "deduction": "Total deductions including proposed EMI up to 65% of Gross Monthly Income (salaried) / Gross Average Annual Income (Non salaried)",
+          "security": "Hypothecation of vehicle purchased",
+          "processing_fee": "0.50% of Loan Amount (Min: Rs. 500/-, Max: Rs. 5000/-)"
+        },
+        {
+          "scheme_name": "Mahabank Vehicle Loan Scheme for Second Hand Car",
+          "url": "https://bankofmaharashtra.in/mahabank-vehicle-loan-scheme-for-second-hand-car",
+          "features": [
+            "Up to 3 year old cars only",
+            "Loan min Rs 2 lakh, max Rs 50 lakh",
+            "Max tenure: 60 months",
+            "Loan up to 70% of valuation or IDV"
+          ]
+        }
+      ]
+    },
+    "education_loans": {
+      "category_name": "Education Loans",
+      "schemes": [
+        {
+          "scheme_name": "Model Education Loan Scheme",
+          "url": "https://bankofmaharashtra.in/model-education-loan-scheme",
+          "interest_rate": "7.10% P.A*",
+          "purpose": "For Studies in India and Abroad",
+          "eligibility": {
+            "studies_in_india": "Graduation courses/Colleges under Universities approved by UGC. Other courses leading to diploma/degree conducted by colleges/universities approved by UGC/Govt./AICTE/AIBMS/ICMR etc.",
+            "studies_abroad": "Job oriented Professional/Technical/PG courses/Post Graduation: MCA, MBA, MS etc."
+          },
+          "age": "Student should be Indian national, have secured admission by Entrance test/Merit based selection",
+          "maximum_amount": {
+            "in_india": "Rs. 10.00 lac",
+            "abroad": "Rs. 20.00 lac",
+            "note": "Loan for Higher Amount can be considered on merit and case to case basis"
+          },
+          "security": {
+            "up_to_7_5_lakhs": "Clean. Parents/Guardian to be joint borrowers. All eligible loans covered under CGFSEL",
+            "above_7_5_lakhs": "Collateral equivalent to quantum of finance after providing requisite margin. Parents/Guardian to be joint borrowers"
+          },
+          "margin": {
+            "up_to_4_lakhs": "NIL",
+            "above_4_lakhs_india": "5%",
+            "above_4_lakhs_abroad": "15%"
+          },
+          "interest_calculation": "Simple interest during moratorium period, thereafter compounded monthly. 1% interest concession if interest is serviced regularly during study period",
+          "repayment": "Course period + 1 year (Uniform 1 year moratorium for repayment after completion of studies). Maximum 180 EMIs (15 years excluding moratorium)",
+          "special_offers": {
+            "girl_students": "0.50% concession",
+            "existing_housing_loan_borrower": "0.50% concession",
+            "meritorious_students": "Up to 0.25% concession",
+            "note": "Overall Maximum concession of 0.5% allowed"
+          },
+          "other_features": [
+            "Loan granted to student with parent as Co-borrower/s",
+            "Loan disbursed in stages directly to Institute/College",
+            "Pre-approved Education loan (In principle sanction) available for study abroad"
+          ],
+          "application_process": "Through Unified PM Vidyalaxmi Portal (https://pmvidyalaxmi.co.in)"
+        },
+        {
+          "scheme_name": "PM-Vidya Laxmi (PMVS): Education Loan Scheme",
+          "url": "https://bankofmaharashtra.in/pm-vidya-laxmi",
+          "objective": "Providing financial support education loans to meritorious students who get admission in quality Higher Educational Institutions (QHEIs)",
+          "nationality": [
+            "Indian National (including NRI)",
+            "Overseas Citizens in India (OCI)",
+            "Students born abroad with overseas citizenship by birth"
+          ],
+          "eligibility_criteria": "Should have secured admission to a higher education course in the 860 quality institutions",
+          "meritorious_definition": "Admission in select Premier institutions through common entrance test",
+          "categorisation_institutions": "List of select 860 quality Higher Educational Institutions",
+          "courses_eligible": "All Graduation/Post Graduation degree and diploma courses offered by 860 quality HEIs",
+          "expenses_considered": [
+            "Fee payable to college/hostel",
+            "Examination/Library/Laboratory fee",
+            "Insurance premium for student borrower",
+            "Caution deposit, building fund/refundable deposit",
+            "Purchase of books/equipment/instruments/uniforms",
+            "Purchase of computer if required for course completion",
+            "Study tours, project work, thesis, exchange programme etc."
+          ],
+          "quantum_of_finance": "Need based Finance linked to total education expenses",
+          "margin": {
+            "up_to_4_lakhs": "NIL",
+            "above_4_lakhs": "5%",
+            "note": "Scholarship, teaching/research assistantship can be included in margin"
+          },
+          "security_guarantee": {
+            "co_obligation": "Co-obligation of parents/guardian as joint co-borrowers (parent(s)/guardian, or for married person - spouse or parent(s)/parents-in-law)",
+            "collateral": "No collateral security required"
+          },
+          "moratorium_period": "Course period + 1 year after completion of study",
+          "repayment": "Maximum 180 equated monthly instalments (15 years excluding moratorium)",
+          "charges": {
+            "processing_charge": "No processing/upfront charges",
+            "account_handling_charges": "As per service charges booklet (Currently Rs. 500 + 0.20% of Loan amount)",
+            "pm_vidya_laxmi_enrolment": "Rs. 100 + GST (subject to change)",
+            "prepayment_charges": "No Prepayment charges"
+          },
+          "interest_subvention": {
+            "annual_income_up_to_4_5_lakhs": {
+              "technical_professional_courses": "100% interest subvention (PM-USP CSIS)",
+              "other_courses": "3% interest subvention (PM-Vidyalaxmi)"
+            },
+            "annual_income_4_5_to_8_lakhs": {
+              "all_courses": "3% interest subvention (PM-Vidyalaxmi)"
+            },
+            "note": "Student availing any other Central/State Government Scholarship, or interest subvention scheme or Fee reimbursement not eligible"
+          },
+          "credit_guarantee": "Education loan up to ₹7.5 lakhs, irrespective of family income - 75% of outstanding default covered by Government as per CGFSEL guidelines",
+          "disbursement_mechanism": "Through e-voucher/Programmable CBDC wallets, via Direct Benefit Transfer (DBT) through PFMS Portal and NACH",
+          "documents_required": {
+            "student_applicant": [
+              "KYC Details - Aadhaar, PAN ID and Address Proof",
+              "Previous Qualifying self-attested mark sheets",
+              "Entrance Exam Result",
+              "Proof of admission: Offer letter from Institution with Fee Structure",
+              "Passport-size photographs"
+            ],
+            "co_applicant": [
+              "Proof of Identity and address as per KYC norms",
+              "Passport-size photographs",
+              "Previous/existing Loans documentary evidence",
+              "Pan Card and Aadhar (mandatory)",
+              "Income Documents of parents/Co-Applicants"
+            ],
+            "income_proof": "Proof of Income from designated public authority of the state"
+          }
+        }
+      ]
+    },
+    "other_loans": {
+      "category_name": "Other Loans",
+      "schemes": [
+        {
+          "scheme_name": "TopUp Loan for Home loan borrowers",
+          "url": "https://bankofmaharashtra.in/topup-home-loan",
+          "interest_rate": "7.85% P.A*",
+          "description": "Financial support for existing home loan customers for renovation, furnishing, repairs",
+          "features": [
+            "Maximum loan amount upto Rs.10.00 Cr.",
+            "Maximum repayment period of upto 180 months",
+            "Maximum Age at maturity of loan at 75 years",
+            "Loan for purpose such as marriage, education etc.",
+            "No prepayment penalty",
+            "No Hidden Charges"
+          ]
+        },
+        {
+          "scheme_name": "Maha Gold Loan Scheme",
+          "url": "https://bankofmaharashtra.in/gold-loan",
+          "interest_rate": "8.75% P.A*",
+          "description": "Loan against gold ornaments or jewelry with quick disbursement",
+          "features": [
+            "Type of Facility: Term Loan/Cash Credit",
+            "Maximum Tenure up to 24 months",
+            "Minimum Quantum of Loan: Rs. 20,000/-",
+            "Maximum Amount: Up to Rs. 100 lakh (T&C Applied)",
+            "Out of Pocket Expenses (Packing Charges): Rs. 100/- + GST",
+            "No Pre-Payment/Pre-closure/Part payment Charges",
+            "No Documentation Charges",
+            "No Inspection Charges",
+            "Low EMI and fast processing"
+          ]
+        },
+        {
+          "scheme_name": "Mahabank Personal Loan Scheme",
+          "url": "https://bankofmaharashtra.in/personal-banking/loans/personal-loan",
+          "interest_rate": "9.00% P.A*",
+          "description": "Unsecured loans for personal needs including vacation, special events, higher studies, medical bills",
+          "types": [
+            "Maha Bank Personal Loan Scheme For Salaried Customer",
+            "Maha Bank Personal Loan Scheme For Professionals",
+            "Maha Bank Personal Loan Scheme For Business Class"
+          ],
+          "features": [
+            "Personal loan for salaried, professionals, business class",
+            "Loan up to 20x monthly income, max Rs 20 lakh",
+            "No guarantor required",
+            "Quick sanction"
+          ],
+          "documents_required": {
+            "identification_proof": [
+              "Election ID Card",
+              "PAN Card",
+              "Aadhar Card",
+              "Driving License",
+              "Photo Identity card",
+              "Passport"
+            ],
+            "residence_proof": [
+              "Electricity Bill",
+              "Election ID Card",
+              "Telephone Bill",
+              "Aadhar Card",
+              "Driving License",
+              "Photo Identity card",
+              "Passport"
+            ],
+            "for_salaried": [
+              "Latest salary slips for past 3 months",
+              "IT returns of last 2 years or Form 16",
+              "Undertaking from employer for remittance",
+              "Bank Account statement for last 6 months"
+            ],
+            "for_non_salaried": [
+              "Latest 3 years IT returns (2 years for Professionals)",
+              "Shop Establishment Act",
+              "Tax Registration Copy",
+              "Company Registration License",
+              "Bank statement for past one year"
+            ]
+          }
+        },
+        {
+          "scheme_name": "Salary Gain Scheme",
+          "url": "https://bankofmaharashtra.in/salary-gain-scheme",
+          "description": "Overdraft facility for salary account holders to meet day to day needs",
+          "categories": {
+            "govt_psu_employees": {
+              "od_amount": "5 times of monthly take home salary subject to Maximum Rs 5.00 Lakh",
+              "eligibility": "Confirmed Salaried Employees of Central/State Govt./PSUs/Govt. aided Educational Institute with minimum 1 year continuous service",
+              "min_take_home_salary": "Rs.25,000/- p.m.",
+              "deduction_norms": "Total deduction including notional interest should not exceed 65% of Gross Monthly Salary",
+              "roi": "1 Year RLLR + 3.15%",
+              "processing_fee": "0.50% of OD Amount per annum (min Rs. 500/- P.A)"
+            },
+            "other_employees": {
+              "od_amount": "3 times of monthly take home salary subject to Maximum Rs 5.00 Lakh",
+              "eligibility": "Permanent employment with minimum 1 year Service in Reputed Corporates/Public or Private Limited Companies/MNCs (For Pvt./Public Ltd. company employees, companies should have external rating A and above)",
+              "min_take_home_salary": "Rs.25,000/- p.m.",
+              "deduction_norms": "Total deduction should not exceed 60% of Gross Monthly Salary",
+              "roi": "1 Year RLLR + 3.15%",
+              "processing_fee": "0.50% of OD Amount per annum (min Rs. 500/- P.A)"
+            }
+          },
+          "age_criteria": {
+            "minimum": "21 Years",
+            "maximum": "Three years before superannuation/retirement"
+          }
+        },
+        {
+          "scheme_name": "Loan Against Property (LAP)",
+          "url": "https://bankofmaharashtra.in/loan-against-property",
+          "purpose": "To cater to requirements of meeting personal expenses",
+          "eligibility": "Permanent Employees of Central/State Govt./PSUs/Educational Institutions, and Individual Businessmen, professionals, self-employed who own unencumbered residential/commercial property under self-occupation",
+          "min_annual_income": "Rs 5.00 Lakhs",
+          "maximum_quantum": {
+            "minimum": "Rs 0.05 Crore",
+            "maximum_metros": "Rs 10.00 Crore",
+            "maximum_other_centres": "Rs 5.00 Crore"
+          },
+          "margin": {
+            "up_to_1_crore": "40% of Realizable value of property",
+            "above_1_crore": "50% of Realizable value of property"
+          },
+          "repayment_period": "Maximum 10 years or on borrower reaching age of 75 years whichever is earlier",
+          "deduction": "Not to Exceed 60% of Gross Income including Proposed EMI/Notional Interest",
+          "security": "Mortgage of the Property",
+          "processing_fee": "1% of loan amount + GST"
+        },
+        {
+          "scheme_name": "Mahabank Aadhar Loan Scheme",
+          "url": "https://bankofmaharashtra.in/maha-adhaar-loan",
+          "purpose": "To meet personal expenses (General Consumption, Medical Expenses, Marriage Ceremony, Funerals, Birth, religious ceremonies, etc.)",
+          "eligibility": "Central/State Government/Municipal Corporation/PSUs and Family Pensioners drawing pension from Bank branches",
+          "maximum_quantum": {
+            "general_pensioners": {
+              "up_to_65_years": "18 months pension subject to max Rs.10.00 Lakhs",
+              "up_to_70_years": "18 months pension subject to max Rs.5.00 Lakhs",
+              "up_to_73_years": "18 months pension subject to max Rs.3.00 Lakhs"
+            },
+            "defence_bom_staff_pensioners": {
+              "up_to_65_years": "36 months pension subject to max Rs.10.00 Lakhs",
+              "up_to_70_years": "36 months pension subject to max Rs.7.00 Lakhs",
+              "up_to_73_years": "36 months pension subject to max Rs.5.00 Lakhs"
+            },
+            "family_pensioners": {
+              "up_to_65_years": "18 months pension subject to max Rs.4.00 Lakhs",
+              "up_to_70_years": "18 months pension subject to max Rs.3.00 Lakhs",
+              "up_to_73_years": "18 months pension subject to max Rs.2.00 Lakhs"
+            }
+          },
+          "margin": "Nil",
+          "repayment_period": "120 EMI, Subject to 75 years of age at loan maturity",
+          "deduction": {
+            "pension_up_to_12500": "40% of gross monthly pension",
+            "pension_above_12500": "50% of gross monthly pension"
+          },
+          "security": [
+            "Family pension nominee as co-borrower (mandatory)",
+            "For family pensioner, one acceptable guarantor with sufficient net worth drawing salary/pension from Bank"
+          ],
+          "processing_fee": "0.50% of loan amount (min Rs.500/-, max Rs.5000/-) + GST. No Processing Charges for Staff Pensioners"
+        },
+        {
+          "scheme_name": "Mahabank Green Financing Scheme",
+          "url": "https://bankofmaharashtra.in/mahabank-green-financing-scheme",
+          "description": "Green banking considering social and ecological factors to defend environment and preserve natural resources",
+          "types": [
+            "Maha Super Green Housing Loan Scheme - Green Building",
+            "Maha Super Green Car Loan Scheme - Electric Car"
+          ]
+        },
+        {
+          "scheme_name": "Loan Against Deposit (LAD)",
+          "url": "https://bankofmaharashtra.in/lad",
+          "description": "Leverage existing Fixed Deposit for quick access to cash without breaking it prematurely",
+          "features": [
+            "High Loan Value: Get up to 90% of FD value as loan",
+            "Competitive Interest Rates: Lower than traditional personal loans",
+            "Quick and Easy Processing: Zero documentation required",
+            "NIL Processing Fee",
+            "Immediate Access to Funds",
+            "Flexible Repayment Options",
+            "No Need to Break FD",
+            "Continue to earn interest on FD",
+            "No Credit Check Required",
+            "Maintain Financial Discipline"
+          ],
+          "benefits": [
+            "FD acts as collateral",
+            "No credit check required",
+            "Maintain long-term savings goals",
+            "Peace of mind in emergencies"
+          ],
+          "application_process": [
+            "Log In to mahamobile plus app",
+            "Navigate to Deposits Section",
+            "Select Fixed Deposit and Click 'Apply for Loans Against Deposit'",
+            "Fill in details (loan amount and tenure)",
+            "Input transaction PIN and submit",
+            "Loan amount credited instantly"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+# Core Python Libraries
+requests
+beautifulsoup4
+selenium
+lxml
+
+# Data Handling
+pandas
+numpy
+
+# Text Processing & Vectorization
+langchain
+faiss-cpu
+tiktoken
+sentence-transformers
+
+# LLM Access (OpenAI or alternatives)
+openai
+huggingface-hub
+
+# Utility
+python-dotenv
+tqdm
+
+# (Optional for dynamic scraping)
+webdriver-manager
