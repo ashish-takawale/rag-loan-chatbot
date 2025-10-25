@@ -1,29 +1,13 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-pip-freeze.log
-pip-selfcheck.json
+Python cache
 
-# Environment variables
+pycache/
+
+Environment variables (KEEP THIS SECRET)
 .env
-*.env
 
-# Generated data
-faiss_index/
-data_raw/
-*.faiss
-*.pkl
-
-# Executables & Drivers
-*.exe
-*.dmg
-
-# IDE / OS
+OS / IDE specific files
+.DS_Store
 .idea/
 .vscode/
-.DS_Store
+
+Note: faiss_index/ is intentionally NOT ignored to include the pre-built index in the repo.
